@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WordPress**
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Namityadav8"> Namit Yadav</a>
 
 - 💬 Ask me about **MERN stack and related technologies**
 
