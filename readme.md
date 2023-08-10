@@ -1,28 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Namit Yadav</h1>
-<h3 align="center">Passionate Data Scientist with knowledge of programming languages like python , C , SQL and also having basic knowledge of html , CSS . </h3>
+<h3 align="center">I'm a passionate second-year data science student on a journey to explore the fascinating world of data. 📊🔍 </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/namit_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="Namit Yadav" /></a> </p>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Namityadav8"> Namit Yadav</a>
 
-- 💬 Ask me about **MERN stack and related technologies**
+- 💬 Ask me about **Data science and technologies**
 
 - 📫 How to reach me **namityadav008@gmail.com**
 
-- ⚡ Fun fact **Football fanatic, Madridista**
+- ⚡ Fun fact **sports person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
-
+<a href="https://twitter.com/namit_ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Namit Yadav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/namitydv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namitydv/" height="30" width="40" /></a>
-
-
 <a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
 </p>
 
