@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **namityadav008@gmail.com**
 
-- ⚡ Fun fact **Ladki baaz**
+- ⚡ Fun fact **Sports person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
