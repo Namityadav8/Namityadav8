@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Namit Yadav</h1>
 <h3 align="center">I'm a passionate second-year data science student on a journey to explore the fascinating world of data. 📊🔍 </h3>
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e472lc2r02t0q9a0y0tajxv8mts9b4y11yrojdxdw5r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e472lc2r02t0q9a0y0tajxv8mts9b4y11yrojdxdw5r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namityadav8&label=Profile%20views&color=0e75b6&style=flat" alt="namityadav8" /> </p>
 
 <p align="left"> <a href="https://twitter.com/namit_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/Namit Yadav?logo=twitter&style=for-the-badge" alt="Namit Yadav" /></a> </p>
