@@ -33,6 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namityadav8&theme=tokyonight" alt="Namit Yadav" /></p>
 
 
-[![Namit's GitHub stats](https://github-readme-stats.vercel.app/api?username=namityadav8)](https://github.com/namityadav8/github-readme-stats)
+![Namit Yadav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=namityadav8&custom_title=namit%20yadav8's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
