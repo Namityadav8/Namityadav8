@@ -32,3 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namityadav8&theme=tokyonight" alt="Namit Yadav" /></p>
 
+
+[![Namit's GitHub stats](https://github-readme-stats.vercel.app/api?username=namityadav8)](https://github.com/namityadav8/github-readme-stats)
+
+
