@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/namit_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/Namit Yadav?logo=twitter&style=for-the-badge" alt="Namit Yadav" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Java and R **
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Namityadav8"> Namit Yadav</a>
 
