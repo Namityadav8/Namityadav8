@@ -59,6 +59,8 @@
 <br><br>
 <br>
 
+<hr/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namityadav8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Namit Yadav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namityadav8&show_icons=true&locale=en&theme=tokyonight" alt="Namit Yadav" /></p>
