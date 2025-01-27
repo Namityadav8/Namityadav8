@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/namit_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/Namit Yadav?logo=twitter&style=for-the-badge" alt="Namit Yadav" /></a> </p>
 
-- 🌱 I’m currently learning **Java and R **
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Namityadav8"> Namit Yadav</a>
 
-- 💬 Ask me about **Data science and technologies**
+- 💬 Ask me about **AI/ML and Data Science**
 
 - 📫 How to reach me **namityadav008@gmail.com**
 
