@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Namityadav8"> Namit Yadav</a>
 
-- 💬 Ask me about **Data science and technologies**
+- 💬 Ask me about **Data science and Machine Learning**
 
 - 📫 How to reach me **namityadav008@gmail.com**
 
